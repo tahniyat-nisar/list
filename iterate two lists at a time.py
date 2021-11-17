@@ -5,7 +5,8 @@ counter = 0
 while counter < length:
     print (students[counter] + str(marks[counter]))
     counter=counter+1
-    
+
+ 
     
     
     
